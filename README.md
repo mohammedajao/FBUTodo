@@ -34,7 +34,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Understanding the inflation of XML data and the purpose of a RecyclerView in depth was difficult when coupled with the amount of information given
-to us in the past few days.
+to us in the past few days. Another challenge I faced was the jargon and concept of intents. I tried looking at it in a scaled lens where the app was huge. I believe that with more projects this concept will seem less foreign to me and easier to grasp. 
+
+The final challenge was the amount of methods each object had. This is something I must review in my spare time and I must go into Android Studio's API to understand what each method does and their intended use cases so I can later optimize my code.
 
 ## License
 
